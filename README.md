@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Thomas20090425
 - 👀 I’m interested in pcs
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ios jailbreak
+- 💞️ I’m looking to collaborate on ios projects
 - 📫 How to reach me mayuecheng2009@gmail.com
 
 <!---
